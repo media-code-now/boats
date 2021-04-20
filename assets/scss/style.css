@@ -6049,6 +6049,10 @@ del {
   }
 }
 
+a .booknow{
+  border: 5px solid #014b85 ;
+}
+
 .slider-area {
   margin-top: -1px;
 }
@@ -7397,5 +7401,26 @@ form.search-box .search-form a {
 
 footer .footer-area .footer-social .fa-facebook-f {
   color: #fff;
+}
+
+footer .footer-area .footer-social .fa-instagram {
+  color: #fff;
+}
+
+footer .footer-area .footer-social .fa-yelp {
+  color: #fff;
+}
+
+footer .footer-area .footer-social .fa-facebook-f:hover {
+  color: #3b5998;
+}
+
+footer .footer-area .footer-social .fa-instagram:hover {
+  color: #f09433;
+  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+}
+
+footer .footer-area .footer-social .fa-yelp:hover {
+  color: #c41200;
 }
 /*# sourceMappingURL=style.css.map */
