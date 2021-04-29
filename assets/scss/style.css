@@ -6049,10 +6049,6 @@ del {
   }
 }
 
-a .booknow{
-  border: 5px solid #014b85 ;
-}
-
 .slider-area {
   margin-top: -1px;
 }
@@ -6061,7 +6057,7 @@ a .booknow{
   font-size: 100px;
   font-weight: 400;
   margin-bottom: 14px;
-  color: #fde02f;
+  color: #ffee00fa;
   font-family: "Satisfy";
   line-height: 1.3;
   margin-bottom: 17px;
@@ -6552,7 +6548,7 @@ form.search-box .search-form a {
 
 .our-services .single-services {
   border: 1px solid #dafcef;
-  padding: 44px 0;
+  padding: 20px 0;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
