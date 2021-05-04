@@ -23,8 +23,10 @@
   footer .footer-area .footer-social .fa-yelp:hover {
     color: #c41200;
   }
-
-
+  .main-header .logo a img{
+    height: 70px;
+    width: auto;
+  }
 
 
   .main-header .main-menu ul li:last-child a.booknow{
